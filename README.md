@@ -20,6 +20,8 @@ FDBengine is a very simple and lightweight python script/package that will assis
 
 ## FDBengine Beta Details.
 You can get FDBengine Beta by going into the beta branch. Please contribute if any errors found.
+### Here?
+Your already at the beta version lol!
 
 # FDBengine LITE or FDBengine FULL
 Both are essentially the same (both do databases) except the full version has additional commands which may be more helpful.
