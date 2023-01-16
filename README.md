@@ -5,6 +5,8 @@ In Simple: A file database package.
 
 ## Important Info
 I am not good at python nor good at this package stuff. I tried from my ability and if someone can help me get this on PyPi or whatever its called please do help me.
+### Beta
+Also this is the beta version of FDBengine so make sure to report any issues or contribute to fix them.
 
 ## Installation Info/Instructions NOT ON PIP
 To install simply drag the FDBengine.py file to your working directory. Then import it with the follow command:
