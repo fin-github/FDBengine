@@ -7,7 +7,7 @@ In Simple: A file database package.
 I am not good at python nor good at this package stuff. I tried from my ability and if someone can help me get this on PyPi or whatever its called please do help me.
 
 ## Installation Info/Instructions NOT ON PIP
-To install simply drag the FDBengineuser.py file to your working directory. Then import it with the follow command:
+To install simply drag the FDBengine.py file to your working directory. Then import it with the follow command:
 `import fdbengine`.
 
 ## Usage Instructions
