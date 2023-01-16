@@ -33,6 +33,7 @@ None of these commands should be nessecary for the program to run.
 You can enable loggings by typing the command `fdbengine.logging(True)` **WITH THE CAPITAL**
 And disable by running the command `fdbengine.logging(False)` **WITH THE CAPITAL**
 This saves inside of a txt file called *fdbenginelogs.txt*.
+LOGGING IS EXTREMELY UNDER DEVELOPMENT! PLEASE CONTRIBUTE TO FIXING SOME BUGS IF POSSIBLE
 
 ***Default: False***
 
