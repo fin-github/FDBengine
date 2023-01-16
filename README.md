@@ -18,7 +18,8 @@ FDBengine is a very simple and lightweight python script/package that will assis
 
 # FDBengine LITE or FDBengine FULL
 Both are essentially the same (both do databases) except the full version has additional commands which may be more helpful.
-If you are looking for more lightweight and to squeeze a little bit more speed out of FDBengine get the LITE version. But if you dont need it to be the fastest of all for sure go with full.
+If you are looking for more lightweight and to squeeze a little bit more speed out of FDBengine get the LITE version. But if you dont need it to be the fastest of all for sure go with full. Also additional commands are not in LITE.
+LITE also gets very minimal updates and sucnificantly less updates than FULL.
 
 
 # Other
@@ -31,3 +32,7 @@ And disable by running the command `fdbengine.logging(False)` **WITH THE CAPITAL
 This saves inside of a txt file called *fdbenginelogs.txt*.
 
 ***Default: False***
+
+## Create file
+This simple command will create a file. The command is `fdbengine.createfile(filename)`.
+Its simpler than the write command lol. But this command is not in the LITE version of FDBengine.
