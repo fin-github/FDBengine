@@ -23,6 +23,8 @@ You can get FDBengine Beta by going into the beta branch. Please contribute if a
 Both are essentially the same (both do databases) except the full version has additional commands which may be more helpful.
 If you are looking for more lightweight and to squeeze a little bit more speed out of FDBengine get the LITE version. But if you dont need it to be the fastest of all for sure go with full. Also additional commands are not in LITE.
 LITE also gets very minimal updates and sucnificantly less updates than FULL.
+LITE is INCREDIBLY more stable than FULL ***WITH BETA ADDITIONAL COMMANDS***. 
+Contributing would be a huge help!!!
 
 
 # Other
